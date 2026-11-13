@@ -17,3 +17,16 @@ Thumbs.db
 # MiniQuant runtime artifacts
 mini_quant_system/data/
 mini_quant_system/output/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Practice data and generated results
+/2330_*.csv
+/TWSE_ALL_*.csv
+/ch02_practice/*.csv
+/ch03_kline/kline_sql_*.csv
+/ch04_factor/ch04_data/
+/ch04_factor/ch04_ic/
