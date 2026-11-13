@@ -30,3 +30,15 @@ mini_quant_system/output/
 /ch03_kline/kline_sql_*.csv
 /ch04_factor/ch04_data/
 /ch04_factor/ch04_ic/
+
+# Chapter 4 generated results
+/ch04_factor/ch04_four_factors/
+/ch04_factor/ch04_kline_batch/
+/ch04_factor/ch04_kline_event/
+/ch04_factor/ch04_kline_ic/
+
+# Chapter 5 runtime data
+/ch05_regime/ch05_voting_v1/cache/
+/ch05_regime/ch05_voting_v1/output/
+/ch05_regime/ch05_voting_v1/sample_live_incomplete/
+/ch05_regime/ch05_voting_v1/input/*.csv

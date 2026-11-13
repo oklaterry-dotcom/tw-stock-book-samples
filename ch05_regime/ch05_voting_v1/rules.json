@@ -1,0 +1,10 @@
+{
+  "pcr_low": 0.7,
+  "pcr_high": 1.2,
+  "copper_gold_band": 0.02,
+  "trend_band": 0.01,
+  "ewt_daily_band": 0.005,
+  "vix_term_band": 0.02,
+  "max_age_days": 7,
+  "breadth_calendar_days": 120
+}
