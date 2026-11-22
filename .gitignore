@@ -42,3 +42,7 @@ mini_quant_system/output/
 /ch05_regime/ch05_voting_v1/output/
 /ch05_regime/ch05_voting_v1/sample_live_incomplete/
 /ch05_regime/ch05_voting_v1/input/*.csv
+/ch05_regime/ch05_voting_v1/input/backups/
+
+# Chapter 8 pipeline status and local backups
+/ch08_pipeline/state/
